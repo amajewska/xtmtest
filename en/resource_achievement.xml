@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <resource>
-    <item name="label_achievement_score"><![CDATA[WYNIK OSIĄGNIĘĆa]]></item>
-    <item name="label_achievement_score_long"><![CDATA[Wynik osiągnięća]]></item>
-    <item name="label_achievement_progress"><![CDATA[Postęp osiągnięća]]></item>
-    <item name="label_achievement_progress_long"><![CDATA[Postęp osiągnięća]]></item>
-    <item name="label_achievement_overview"><![CDATA[Zestawieniea]]></item>
+    <item name="label_achievement_score"><![CDATA[ZMIANIAM TEKST]]></item>
+    <item name="label_achievement_score_long"><![CDATA[ZMIENIAM TESKST 2]]></item>
+    <item name="label_achievement_progress"><![CDATA[ZMIENIAM TEKST 3]]></item>
+    <item name="label_achievement_progress_long"><![CDATA[Zmieniam kolejny teskt]]></item>
+    <item name="label_achievement_overview"><![CDATA[i kolejny tekst zmieniony]]></item>
     <item name="label_achievement_overview_long"><![CDATA[Zestawieniea]]></item>
     <item name="label_achievement_training_arena_achievements"><![CDATA[Ultimate Battle Arena]]></item>
     <item name="label_achievement_training_arena_achievements_long"><![CDATA[Ultimate Battle Arenaa]]></item>
