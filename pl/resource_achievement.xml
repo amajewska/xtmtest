@@ -5,10 +5,10 @@
  <item name="label_achievement_progress"><![CDATA[ZMIENIAM TEKST 3]]></item>
  <item name="label_achievement_progress_long"><![CDATA[Zmieniam kolejny teskt]]></item>
  <item name="label_achievement_overview"><![CDATA[i kolejny tekst zmieniony]]></item>
- <item name="label_achievement_overview_long"><![CDATA[Zestawienie]]></item>
- <item name="label_achievement_training_arena_achievements"><![CDATA[Ultimate Battle Arena]]></item>
- <item name="label_achievement_training_arena_achievements_long"><![CDATA[Ultimate Battle Arena]]></item>
- <item name="label_achievement_titles"><![CDATA[Tytuł]]></item>
+ 
+
+ 
+
  <item name="label_achievement_titles_long"><![CDATA[Tytuł]]></item>
  <item name="label_achievement_my"><![CDATA[Moje osiągnięcia]]></item>
  <item name="label_achievement_my_long"><![CDATA[Moje osiągnięcia]]></item>
