@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <resource>
- <item name="hangar_overview_no_drones"><![CDATA[Obecnie nie posiadasz dronów.]]></item>
- <item name="hangar_overview_no_pet"><![CDATA[Obecnie nie posiadasz żadnego P.E.T.a.]]></item>
- <item name="nav_sub1_hangar_shop"><![CDATA[SKLEP]]></item>
- <item name="nav_sub1_hangar_shop_long"><![CDATA[Sklep]]></item>
- <item name="nav_sub1_hangar_pet"><![CDATA[P.E.T.]]></item>
+
+
+ 
+ 
  <item name="nav_sub1_hangar_pet_long"><![CDATA[P.E.T.]]></item>
  <item name="nav_sub1_hangar_pet_gear"><![CDATA[P.E.T./MECHANIZMY]]></item>
  <item name="nav_sub1_hangar_pet_gear_long"><![CDATA[P.E.T./mechanizmy]]></item>
