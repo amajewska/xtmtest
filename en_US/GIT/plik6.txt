@@ -1,0 +1,13 @@
+raza ENGLISH
+raz Ala
+dwa ENGLISH
+trzy
+cztery ENGLISH
+pieć
+sześć ENGLISH
+sześć ENGLISH 
+siedem ENGLISH
+osiem 8
+osiem a ENGLISH
+dziewiec
+dziesięć ENGLISH 
